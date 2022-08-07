@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 393.32 393.32">
+    <defs>
+        <style>.cls-1{fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:3px;}.cls-2{fill:#231f20;}</style>
+    </defs>
+    <title>Asset 1map</title>
+    <g id="Layer_2" >
+        <g id="Layer_1-2" >
+            <rect class="cls-1" x="6.66" y="6.66" width="380" height="380"/>
+            <line class="cls-1" x1="196.66" y1="6.66" x2="196.66" y2="386.66"/>
+            <line class="cls-1" x1="6.66" y1="196.66" x2="386.66" y2="196.66"/>
+            <circle id="p1" class="cls-2" cx="6.66" cy="6.66" r="6.66"/>
+            <circle id="p4" class="cls-2" cx="6.66" cy="196.66" r="6.66"/>
+            <circle id="p3" class="cls-2" cx="386.66" cy="6.66" r="6.66"/>
+            <circle id="p2" class="cls-2" cx="196.66" cy="6.66" r="6.66"/>
+            <circle id="p9" class="cls-2" cx="386.66" cy="386.66" r="6.66"/>
+            <circle id="p8" class="cls-2" cx="196.66" cy="386.66" r="6.66"/>
+            <circle id="p7" class="cls-2" cx="6.66" cy="386.66" r="6.66"/>
+            <circle id="p6" class="cls-2" cx="386.66" cy="196.66" r="6.66"/>
+            <circle id="p5" class="cls-2" cx="196.66" cy="196.66" r="6.66"/>
+        </g>
+    </g>
+</svg>

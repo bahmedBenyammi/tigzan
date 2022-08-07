@@ -1,0 +1,104 @@
+.cls-1{fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:3px;}
+.disactive{
+    background-color: hotpink;
+    fill:#231f20;}
+.active{
+    background-color: green;
+    fill:rgb(3, 255, 3)}
+.Myturn{
+    background-color: rgb(75, 250, 84);
+}
+.Model{
+    position:absolute;
+    top: 50%;
+    left :50%;
+    right: auto;
+    bottom: 'auto';
+    width: 50%;
+    transform: translate(-50%, -50%);
+  }
+.modal-footer{
+    flex: none;
+    flex-wrap: nowrap;
+    border: none;
+    display: contents;
+    height: inherit;
+}
+.divButton{
+    margin: auto;
+   margin-bottom: 10px;
+}
+.BLUE{
+    fill:#438ac9
+}
+.RED{
+    fill:#a21d23
+}
+.Table{
+    height: 100vh;
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    max-height: 100vh;
+}
+* {
+    box-sizing: border-box;
+  }
+.game{
+    display: flex;
+    height: 95%;
+    margin: auto;
+    
+}
+.contient{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 8% 80% 8%;
+    grid-gap: 2%;
+    
+
+}
+.gameTable{
+    display: flex;
+    height: 100%;
+    margin: auto;
+
+    padding-left:50px;
+    padding-right: 50px;
+}
+.playerField{
+    width: 60%;
+    height: 100%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    padding-left: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+    
+}
+.playerDetil{
+    margin-top: auto; 
+    margin-left: 1rem;  
+}
+.playerDetil > p{
+     transform: translateY(10%);
+}
+.topPlayer{
+    border-top: none;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+}
+.bottomPlayer{
+    border-bottom: none;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+  
+}
+
